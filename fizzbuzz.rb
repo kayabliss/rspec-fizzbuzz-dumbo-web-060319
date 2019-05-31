@@ -8,7 +8,7 @@ def fizzbuzz(int)
   if int % 3 == 0 && int % 5 == 0 
    return "FizzBuzz"
   end
-  if int != int % 3 == 0 || int != int % 5 == 0
+  if !(int % 3 == 0) || !(int % 5 == 0)
    puts "nil"
   end
     
