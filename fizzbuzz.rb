@@ -1,12 +1,12 @@
 def fizzbuzz(int)
   int % 3 == 0
-    return"Fizz"
+    "Fizz"
   int % 5 == 0 
-    return "Buzz"
+   "Buzz"
   int % 3 == 0 && int % 5 == 0 
-   return "FizzBuzz"
+   "FizzBuzz"
  !(int % 3 == 0) || !(int % 5 == 0)
-   puts "nil"
+   "nil"
   end
     
 end
