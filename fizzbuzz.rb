@@ -11,5 +11,6 @@ def fizzbuzz(int)
     
 end
 
+fizzbuzz()
 
 
