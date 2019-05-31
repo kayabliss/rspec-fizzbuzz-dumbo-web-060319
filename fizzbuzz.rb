@@ -14,5 +14,3 @@ def fizzbuzz()
     
 end
 
-# Don't forget! This file needs to be 'required' in its spec file
-# See README.md for instructiothisns on how to do 
